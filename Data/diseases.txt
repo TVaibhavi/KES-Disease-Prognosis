@@ -1,0 +1,15 @@
+Bronchitis
+Cholera
+Coronavirus
+Diabetes
+Diphtheria
+Giardiasis
+Hepatitis
+Hypertension
+Hypothermia
+Jaundice
+Malaria
+Pancreatitis
+Pneumonia
+Tetanus
+Tuberculosis

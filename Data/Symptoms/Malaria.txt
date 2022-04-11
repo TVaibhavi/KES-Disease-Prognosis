@@ -1,0 +1,13 @@
+mild
+no
+no
+mild
+no
+no
+severe
+mild
+no
+severe
+no
+mild
+no
